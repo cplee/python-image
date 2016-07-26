@@ -1,0 +1,13 @@
+click==6.6
+Flask==0.11.1
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+Werkzeug==0.11.10
+boto==2.41.0
+keras==0.3.3
+pydicom==0.9.9
+h5py==2.6.0
+numpy==1.11.1
+scikit-image==0.12.3
+matplotlib==1.5.1
